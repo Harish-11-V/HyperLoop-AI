@@ -1,543 +1,948 @@
+````markdown
 # HYPERLOOP-AI
 
----
+[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#hyperloop-ai)
 
-Autonomous Agentic AI platform for intelligent storage monitoring, predictive analytics, RAG-powered assistance, and secure file migration across Windows and Google Drive using LangGraph, LLMs, Multi-Agent Systems, and Cloud Storage Connectors.
-
----
+Autonomous Agentic AI platform for intelligent storage monitoring, predictive optimization, contextual assistance, and secure cross-platform file management across Windows and Google Drive.
 
 ---
 
-# 🧠 About This Repository
+[image](https://img.shields.io/badge/Agentic%20AI-7C3AED?style=for-the-badge&logo=openai&logoColor=white) [image](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge) [image](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge) [image](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black) [image](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) [image](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white) [image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-This repository contains the design, development, and implementation of **HyperLoop AI**, an intelligent storage management platform powered by **Agentic AI**.
+# ⚡ HyperLoop AI
 
-The project moves beyond traditional storage monitoring systems by introducing autonomous agents capable of **reasoning, planning, retrieval, decision-making, verification, and self-learning**.
+[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#-hyperloop-ai)
 
-HyperLoop AI continuously monitors storage environments, predicts future storage requirements, provides AI-powered insights, and safely optimizes storage through intelligent file migration and automation.
+**Autonomous Agentic AI for Intelligent Storage Management**
 
-The system integrates **LangGraph-based Multi-Agent Systems, Retrieval-Augmented Generation (RAG), Large Language Models (LLMs), Predictive Analytics, and Cloud Storage APIs** to create a next-generation storage intelligence platform.
+---
+
+# 💡 About This Repository
+
+[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#-about-this-repository)
+
+- This repository contains the complete development workspace for **HyperLoop AI**, an autonomous Agentic AI-powered storage intelligence platform.
+- HyperLoop AI continuously monitors local and cloud storage, analyzes storage behavior, predicts future storage pressure, and recommends or performs intelligent optimization.
+- The project combines **Agentic AI, Multi-Agent Systems, LLM reasoning, RAG, persistent memory, predictive analytics, automation, cloud APIs, and secure file management**.
+- The initial implementation focuses on **Windows File System and Google Drive**, with an extensible connector architecture for future cloud platforms.
+- The repository includes feasibility studies, requirements, architecture, research, development, experimentation, testing, documentation, and deployment resources.
 
 ---
 
 # 🎯 Project Objectives
 
-- 🤖 Build an autonomous Agentic AI storage management system
-- 📊 Monitor and analyze storage usage patterns
-- 🔮 Predict future storage growth and capacity requirements
-- 🧠 Enable AI-powered reasoning and decision-making
-- 🔍 Implement RAG-based storage intelligence and chatbot assistance
-- ☁️ Integrate Windows and Google Drive storage systems
-- 🔄 Automate intelligent file migration and optimization
-- 🛡️ Ensure safe, verified, and explainable storage operations
-- 📈 Provide dashboards, analytics, and visual monitoring
-- 🚀 Develop a scalable multi-cloud storage optimization platform
+[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#-project-objectives)
+
+- 🤖 Build an autonomous Agentic AI system for storage intelligence
+- 🧠 Implement multi-agent reasoning, planning, execution, and verification
+- 🔗 Develop agent orchestration using LangGraph
+- 🔍 Integrate RAG for contextual storage knowledge and semantic retrieval
+- 📊 Monitor storage usage, growth, activity, and optimization opportunities
+- 🔮 Predict future storage requirements before capacity becomes critical
+- ☁️ Integrate Windows File System with Google Drive
+- 🛡️ Perform safe and verified autonomous file migration
+- 💬 Provide a natural-language storage assistant
+- 🚀 Build a scalable full-stack application using React.js and FastAPI
 
 ---
 
 # 🛠 Tech Stack
 
-React.js • Vite • Tailwind CSS • FastAPI • Python • LangGraph • LangChain • LLMs • Agentic AI • RAG • ChromaDB • SQLite • APScheduler • Google Drive API • OAuth 2.0 • Windows File System
+[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#-tech-stack)
+
+[image](https://skillicons.dev/icons?i=python,react,vite,fastapi,git,github,docker)
+
+**Agentic AI • LangGraph • LLMs • RAG • ChromaDB • React.js • FastAPI • Python • SQLite • Google Drive API • OAuth 2.0 • APScheduler**
 
 ---
 
-# 📚 Core Topics
+# 🧠 Core Technologies
+
+[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#-core-technologies)
 
 - 🤖 Agentic AI
-- 🧠 Autonomous Agents
-- 🔄 Multi-Agent Systems
-- 🔗 LangGraph Orchestration
-- 🛠️ Tool Calling & Execution
-- 🔍 Retrieval-Augmented Generation (RAG)
-- 💾 Semantic Memory
-- ☁️ Cloud Storage Integration
-- 📊 Storage Analytics
-- 🔮 Predictive Storage Forecasting
-- 📈 Data Visualization
-- 🧩 Decision Intelligence
-- 🔐 Secure File Migration
-- ⚙️ Workflow Automation
-- 🧠 Explainable AI
-- 🚀 Intelligent Storage Optimization
+- 🧠 Large Language Models
+- 🔄 LangGraph Agent Orchestration
+- 🔍 Retrieval-Augmented Generation
+- 💾 Persistent Agent Memory
+- 🧩 Multi-Agent Systems
+- 🛠️ Tool Calling
+- 📊 Predictive Analytics
+- ☁️ Cloud Storage APIs
+- 🔐 OAuth 2.0
+- ⚙️ Intelligent Automation
+- 🛡️ Explainable & Responsible AI
 
 ---
 
-# 🧪 Key Features
+# 🚀 Project Development Stages
 
-| No | Feature |
-|----|---------|
-| 1 | Real-time storage monitoring and analytics |
-| 2 | Intelligent threshold detection and alerts |
-| 3 | Predictive storage forecasting |
-| 4 | AI-powered storage optimization recommendations |
-| 5 | Autonomous file migration planning |
-| 6 | Verified file transfer and integrity validation |
-| 7 | RAG-powered storage assistant chatbot |
-| 8 | Multi-agent reasoning and orchestration |
-| 9 | Storage activity dashboards and visualizations |
-| 10 | User preference learning and memory |
-| 11 | What-if storage simulation |
-| 12 | Future multi-cloud support |
+[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#-project-development-stages)
 
----
+## 🔹 Phase 1 – Feasibility & Research
 
-# 📘 SYSTEM MODULES
+[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#-phase-1--feasibility--research)
 
-## 🔹 MODULE I – Storage Monitoring
-
-- Storage Usage Monitoring
-- Disk Utilization Analysis
-- File Metadata Collection
-- Activity Tracking
-- Growth Pattern Analysis
-- Storage Health Assessment
-- Threshold Detection
-- Usage Statistics
+- Problem Identification
+- Existing System Analysis
+- Technical Feasibility
+- API Feasibility
+- Agentic AI Feasibility
+- RAG Feasibility
+- Security Analysis
+- Technology Selection
+- Risk Analysis
+- Novelty Identification
 
 ---
 
-## 🔹 MODULE II – Agentic Intelligence Layer
+## 🔹 Phase 2 – Requirements & System Design
 
+[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#-phase-2--requirements--system-design)
+
+- Problem Definition
+- Functional Requirements
+- Non-Functional Requirements
+- User Requirements
+- AI Requirements
+- Security Requirements
+- Feature Prioritization
+- System Architecture
+- Agent Architecture
+- Database Architecture
+- Connector Architecture
+
+---
+
+## 🔹 Phase 3 – Storage Intelligence Engine
+
+[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#-phase-3--storage-intelligence-engine)
+
+- Windows Storage Monitoring
+- File Metadata Analysis
+- Folder Analysis
+- Large File Detection
+- Inactive File Detection
+- Duplicate Detection
+- Storage Growth Analysis
+- Storage Health Analysis
+
+---
+
+## 🔹 Phase 4 – Cloud Integration
+
+[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#-phase-4--cloud-integration)
+
+- Google Cloud Project
+- Google Drive API
+- OAuth 2.0
+- Storage Quota Monitoring
+- File Operations
+- Folder Management
+- Upload & Download
+- API Error Handling
+- Retry & Rate Limiting
+
+---
+
+## 🔹 Phase 5 – Agentic AI Development
+
+[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#-phase-5--agentic-ai-development)
+
+- Agent State Design
+- LangGraph Workflow
 - Monitoring Agent
 - Reasoning Agent
 - Planning Agent
 - Action Agent
 - Verification Agent
 - Memory Agent
-- Notification Agent
-- Agent Orchestration
+- Orchestrator Agent
+- Tool Calling
+- Structured Outputs
 
 ---
 
-## 🔹 MODULE III – Retrieval & Memory
+## 🔹 Phase 6 – LLM & RAG
 
-- Retrieval-Augmented Generation (RAG)
-- Semantic Search
+[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#-phase-6--llm--rag)
+
+- LLM Integration
+- Prompt Engineering
+- Structured Reasoning
+- Embeddings
+- ChromaDB
+- Retrieval Pipeline
+- Agentic RAG
+- Semantic File Search
 - Storage Knowledge Base
-- Migration History Retrieval
-- User Preference Memory
-- Agent Decision History
-- Context-Aware Responses
-- Embedding-Based Retrieval
+- Persistent Memory
+- RAG Chatbot
 
 ---
 
-## 🔹 MODULE IV – Decision Intelligence
+## 🔹 Phase 7 – Intelligent Optimization
 
-- Multi-Objective Optimization
-- Storage Forecasting
-- Risk Analysis
-- Confidence Scoring
-- Explainable Decisions
-- Recommendation Generation
-- Optimization Planning
-- What-If Simulation
+[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#-phase-7--intelligent-optimization)
 
----
-
-## 🔹 MODULE V – Storage Operations
-
-- Windows File System Integration
-- Google Drive Integration
-- File Upload & Download
-- File Migration
-- Verification & Validation
-- Duplicate Detection
-- Metadata Management
-- Storage Synchronization
+- Storage Health Score
+- Predictive Storage Forecasting
+- Multi-Objective Decision Engine
+- Optimization Scoring
+- Risk Assessment
+- Explainable AI
+- User Preference Learning
+- What-If Storage Simulation
 
 ---
 
-## 🔹 MODULE VI – Dashboard & Visualization
+## 🔹 Phase 8 – Automation & Autonomous Execution
 
-- Live Storage Dashboard
-- Analytics Reports
-- Agent Activity Monitoring
-- Storage Forecast Visualization
-- Migration History
-- Performance Metrics
-- AI Insights
-- User Settings
+[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#-phase-8--automation--autonomous-execution)
 
----
-
-# 🧩 PROJECT WORKFLOW
-
-The system follows an autonomous Agentic AI workflow:
-
-```text
-OBSERVE
-   ↓
-RETRIEVE
-   ↓
-REASON
-   ↓
-PLAN
-   ↓
-ACT
-   ↓
-VERIFY
-   ↓
-REMEMBER
-   ↓
-REPEAT
-```
-
-This allows HyperLoop AI to continuously optimize storage while maintaining safety and transparency.
+- Scheduled Monitoring
+- Threshold-Based Triggers
+- Predictive Triggers
+- Autonomous Decision Making
+- Safe File Migration
+- Transfer Verification
+- Integrity Validation
+- Retry Mechanisms
+- Rollback & Recovery
+- Audit Logging
 
 ---
 
-# 🏗️ System Architecture Components
+## 🔹 Phase 9 – Full-Stack Development
 
-The project consists of the following major components:
+[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#-phase-9--full-stack-development)
 
-## 1️⃣ Frontend Layer
-
-- React.js
+- React.js Frontend
 - Vite
 - Tailwind CSS
-- Dashboard
-- Analytics
-- Visualization
-- Chat Interface
-
-## 2️⃣ Backend Layer
-
-- FastAPI
+- FastAPI Backend
 - REST APIs
-- Authentication
-- WebSocket Communication
-- Storage Services
-
-## 3️⃣ Agentic AI Layer
-
-- LangGraph
-- Agent Coordination
-- State Management
-- Workflow Execution
-- Tool Calling
-
-## 4️⃣ Intelligence Layer
-
-- LLM-Based Reasoning
-- RAG
-- Semantic Search
-- Decision Engine
-- Predictive Analytics
-
-## 5️⃣ Data Layer
-
-- SQLite
-- ChromaDB
-- User Preferences
-- Agent Memory
-- Storage History
-
-## 6️⃣ Connector Layer
-
-- Windows Connector
-- Google Drive Connector
-- OAuth Integration
-- Cloud APIs
+- WebSocket / SSE
+- Live Monitoring Dashboard
+- AI Insights
+- Storage Analytics
+- RAG Chatbot
+- Agent Activity Monitoring
 
 ---
 
-# 🤖 Multi-Agent Architecture
+## 🔹 Phase 10 – Testing & Evaluation
 
-| Agent | Responsibility |
-|---------|----------------|
-| Monitoring Agent | Collect storage and file information |
-| Reasoning Agent | Analyze storage conditions |
-| Planning Agent | Generate optimization plans |
-| Action Agent | Execute storage operations |
-| Verification Agent | Validate migrations and actions |
-| Memory Agent | Manage semantic memory and retrieval |
-| Notification Agent | Communicate alerts and recommendations |
-| Orchestrator Agent | Coordinate all agents |
+[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#-phase-10--testing--evaluation)
 
----
-
-# 🔍 RAG Integration
-
-HyperLoop AI integrates Retrieval-Augmented Generation to provide contextual and intelligent assistance.
-
-### Knowledge Sources
-
-- Storage History
-- Migration History
-- User Preferences
-- Agent Decisions
-- File Metadata
-- Storage Reports
-
-### RAG Pipeline
-
-```text
-Storage Data
-      ↓
-Preprocessing
-      ↓
-Embeddings
-      ↓
-ChromaDB
-      ↓
-Retrieval
-      ↓
-Context Building
-      ↓
-LLM
-      ↓
-Response / Decision
-```
+- Unit Testing
+- Integration Testing
+- API Testing
+- Agent Testing
+- RAG Evaluation
+- Migration Testing
+- Security Testing
+- End-to-End Testing
+- Baseline Comparison
+- Performance Evaluation
+- Reliability Analysis
 
 ---
 
-# 🔮 Novel Features
+# 📚 Repository Contents
 
-### 1. Predictive Storage Intelligence
+[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#-repository-contents)
 
-Forecast future storage utilization before capacity becomes critical.
-
-### 2. Multi-Objective Decision Engine
-
-Analyze:
-
-- File Size
-- Inactivity
-- Usage Frequency
-- User Preference
-- Risk
-- Storage Capacity
-
-before making decisions.
-
-### 3. Explainable AI
-
-Every recommendation includes:
-
-- Reason
-- Confidence
-- Risk
-- Expected Benefit
-
-### 4. Self-Learning Preferences
-
-Learn user storage behavior and preferences over time.
-
-### 5. Safe Autonomous Migration
-
-```text
-Analyze
-   ↓
-Plan
-   ↓
-Copy
-   ↓
-Verify
-   ↓
-Integrity Check
-   ↓
-Confirm
-   ↓
-Delete Source
-```
-
-### 6. What-If Simulation
-
-Simulate optimization outcomes before execution.
-
----
-
-# 📂 Folder Structure
-
-```text
-HYPERLOOP-AI
-│
-├── frontend
-│   ├── src
-│   ├── components
-│   ├── pages
-│   ├── services
-│   └── assets
-│
-├── backend
-│   ├── api
-│   ├── models
-│   ├── services
-│   ├── schemas
-│   └── main.py
-│
-├── agents
-│   ├── orchestrator
-│   ├── monitoring
-│   ├── reasoning
-│   ├── planning
-│   ├── action
-│   ├── verification
-│   └── memory
-│
-├── connectors
-│   ├── windows
-│   ├── google-drive
-│   └── base
-│
-├── rag
-│   ├── embeddings
-│   ├── retrieval
-│   ├── ingestion
-│   └── vectorstore
-│
-├── database
-│   ├── sqlite
-│   ├── repositories
-│   └── migrations
-│
-├── automation
-│   ├── scheduler
-│   └── workflows
-│
-├── tests
-│   ├── unit
-│   ├── integration
-│   └── e2e
-│
-├── docs
-├── assets
-├── README.md
-├── requirements.txt
-└── .env.example
-```
+- 📋 Feasibility Study
+- 📝 Requirements
+- 🔍 Research
+- 💡 Innovation & Novelty
+- 🏗 System Architecture
+- 🤖 Agent Architecture
+- 🧠 LLM & RAG
+- 💾 Database Design
+- ☁️ Google Drive Integration
+- 🖥 Windows Storage Engine
+- 💻 Backend Development
+- 🎨 Frontend Development
+- ⚙️ Automation
+- 🧪 Testing
+- 📊 Evaluation
+- 🚀 Deployment
+- 📄 Documentation
+- 🎤 Presentation
+- 🎬 Demonstration
 
 ---
 
 # 🔄 HyperLoop AI Workflow
 
+[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#-hyperloop-ai-workflow)
+
 ```text
-User
- │
- ▼
-Dashboard / Chatbot
- │
- ▼
-FastAPI Backend
- │
- ▼
-LangGraph Orchestrator
- │
- ├── Monitoring Agent
- ├── Reasoning Agent
- ├── Planning Agent
- ├── Action Agent
- ├── Verification Agent
- └── Memory Agent
- │
- ▼
-Decision Engine
- │
- ▼
-Storage Connectors
- │
- ├── Windows File System
- └── Google Drive
- │
- ▼
-Verification
- │
- ▼
-Memory Update
+                    User
+                      │
+                      ▼
+              React.js Frontend
+                      │
+                      ▼
+               FastAPI Backend
+                      │
+                      ▼
+            LangGraph Orchestrator
+                      │
+                      ▼
+                 OBSERVE
+                      │
+                      ▼
+                RETRIEVE
+                      │
+                      ▼
+                 REASON
+                      │
+                      ▼
+                  PLAN
+                      │
+                      ▼
+                   ACT
+                      │
+                      ▼
+                 VERIFY
+                      │
+                      ▼
+                REMEMBER
+                      │
+                      └──────────► REPEAT
+````
+
+---
+
+# 🤖 Multi-Agent Architecture
+
+[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#-multi-agent-architecture)
+
+```text
+                 ┌─────────────────────┐
+                 │     Orchestrator     │
+                 │       Agent         │
+                 └──────────┬──────────┘
+                            │
+          ┌─────────────────┼─────────────────┐
+          ▼                 ▼                 ▼
+   Monitoring Agent   Reasoning Agent   Memory/RAG Agent
+          │                 │                 │
+          │                 ▼                 │
+          │          Planning Agent           │
+          │                 │                 │
+          │                 ▼                 │
+          │           Action Agent            │
+          │                 │                 │
+          │                 ▼                 │
+          │       Verification Agent          │
+          │                 │                 │
+          └─────────────────┴─────────────────┘
+                            │
+                            ▼
+                     Storage Systems
 ```
 
 ---
 
-# 🎓 Expected Outcomes
+# 🏗️ System Architecture
 
-Upon successful completion of this project, developers will be able to:
+[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#-system-architecture)
 
-- 🤖 Design and implement Agentic AI systems
-- 🧠 Build autonomous multi-agent workflows
-- 🔍 Develop RAG-powered applications
-- ☁️ Integrate cloud storage APIs
-- 📊 Create intelligent monitoring dashboards
-- 🔄 Automate storage optimization workflows
-- 🛡️ Implement safe autonomous actions
-- 🚀 Develop scalable AI-powered platforms
-
----
-
-# 🌟 Innovation Focus
-
-HyperLoop AI combines multiple emerging technologies:
-
-- Agentic AI
-- Multi-Agent Systems
-- LLM Reasoning
-- RAG
-- Semantic Memory
-- Predictive Analytics
-- Cloud Computing
-- Explainable AI
-- Intelligent Automation
-- Storage Intelligence
-
-to create a next-generation autonomous storage management platform.
-
----
-
-# 📊 Evaluation Metrics
-
-| Area | Focus |
-|--------|--------|
-| 🧠 AI Reasoning | Decision quality and explainability |
-| 🔍 Retrieval | RAG accuracy and relevance |
-| ⚙️ Automation | Workflow reliability |
-| 📈 Analytics | Forecasting accuracy |
-| ☁️ Storage | Optimization effectiveness |
-| 🛡️ Security | Safe operation execution |
-| 💾 Memory | Context retention and learning |
-| 🚀 Performance | System responsiveness |
-
----
-
-# 🗺️ Development Roadmap
-
-| Phase | Focus |
-|---------|---------|
-| Phase 1 | Research & Feasibility |
-| Phase 2 | System Architecture |
-| Phase 3 | Storage Connectors |
-| Phase 4 | Backend Development |
-| Phase 5 | Agentic AI Layer |
-| Phase 6 | RAG & Memory |
-| Phase 7 | Dashboard Development |
-| Phase 8 | Automation & Scheduling |
-| Phase 9 | Testing & Evaluation |
-| Phase 10 | Deployment |
-
----
-
-# 🔮 Future Scope
-
-- Microsoft OneDrive Integration
-- Dropbox Integration
-- Android Storage Integration
-- AWS S3 Integration
-- Multi-Cloud Optimization
-- Cost-Aware Storage Routing
-- Enterprise Storage Intelligence
-- AI-Powered Digital Storage Twin
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                         USER                                │
+└────────────────────────────┬────────────────────────────────┘
+                             │
+                             ▼
+┌─────────────────────────────────────────────────────────────┐
+│                    REACT.JS FRONTEND                        │
+│                                                             │
+│ Dashboard │ Analytics │ Chatbot │ Forecast │ Monitoring     │
+└────────────────────────────┬────────────────────────────────┘
+                             │
+                             ▼
+┌─────────────────────────────────────────────────────────────┐
+│                     FASTAPI BACKEND                         │
+│                                                             │
+│ REST API │ Authentication │ Validation │ WebSocket / SSE    │
+└────────────────────────────┬────────────────────────────────┘
+                             │
+                             ▼
+┌─────────────────────────────────────────────────────────────┐
+│                 LANGGRAPH ORCHESTRATOR                      │
+│                                                             │
+│ OBSERVE → RETRIEVE → REASON → PLAN → ACT → VERIFY → MEMORY │
+└───────────────┬───────────────────────┬─────────────────────┘
+                │                       │
+                ▼                       ▼
+       ┌─────────────────┐      ┌─────────────────────────┐
+       │   AI LAYER      │      │    DECISION ENGINE      │
+       │                 │      │                         │
+       │ LLM             │      │ Predictive Analytics    │
+       │ RAG             │      │ Multi-Objective Score   │
+       │ Embeddings      │      │ Risk Assessment         │
+       │ Memory          │      │ Explainability          │
+       └────────┬────────┘      └────────────┬────────────┘
+                │                            │
+                └────────────┬───────────────┘
+                             ▼
+                    ┌──────────────────┐
+                    │   ACTION AGENT   │
+                    │                  │
+                    │ Tool Calling     │
+                    │ Validation       │
+                    │ Safe Operations  │
+                    └────────┬─────────┘
+                             ▼
+                    ┌──────────────────┐
+                    │ VERIFICATION     │
+                    │ AGENT            │
+                    │                  │
+                    │ Integrity Check  │
+                    │ Retry / Rollback │
+                    └────────┬─────────┘
+                             ▼
+                    ┌──────────────────┐
+                    │ DATA & MEMORY    │
+                    │                  │
+                    │ SQLite           │
+                    │ ChromaDB         │
+                    └────────┬─────────┘
+                             ▼
+             ┌───────────────┴────────────────┐
+             ▼                                ▼
+    Windows Connector                 Google Drive Connector
+             │                                │
+             ▼                                ▼
+     Windows File System                 Google Drive
+```
 
 ---
 
-# 👨‍💻 Author
+# 🔍 RAG Architecture
 
-**Harish Kumar V**
+[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#-rag-architecture)
 
-B.Tech – Artificial Intelligence & Machine Learning
-
-Rajalakshmi Engineering College
+```text
+Storage Data
+     │
+     ▼
+Metadata / History / Preferences
+     │
+     ▼
+Preprocessing
+     │
+     ▼
+Embeddings
+     │
+     ▼
+ChromaDB
+     │
+     ▼
+Semantic Retrieval
+     │
+     ▼
+Relevant Context
+     │
+     ▼
+LLM
+     │
+     ▼
+Answer / Recommendation / Decision
+```
 
 ---
 
-# ⚡ HyperLoop AI
+# 📊 Intelligent Storage Optimization
 
-### Think. Plan. Act. Verify. Learn. Repeat.
+[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#-intelligent-storage-optimization)
+
+HyperLoop AI does not rely only on storage percentage.
+
+The decision engine considers:
+
+```text
+File Size
+     +
+Inactivity
+     +
+Access Frequency
+     +
+File Importance
+     +
+User Preference
+     +
+Destination Capacity
+     +
+Risk
+     +
+File Type
+     │
+     ▼
+Optimization Score
+     │
+     ▼
+AI Decision
+```
+
+Example:
+
+```text
+File:             project-video.mp4
+Size:             8 GB
+Inactivity:       11 Months
+Access:           Low
+Importance:       Medium
+Risk:             Low
+
+Optimization Score: 91 / 100
+
+Recommendation: ARCHIVE
+```
+
+---
+
+# 🔮 Predictive Storage Intelligence
+
+[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#-predictive-storage-intelligence)
+
+Instead of waiting for storage to become full, HyperLoop AI analyzes historical storage growth.
+
+```text
+Current Usage
+      │
+      ▼
+Historical Growth
+      │
+      ▼
+Growth Rate Analysis
+      │
+      ▼
+Forecasting Model
+      │
+      ▼
+Predicted Storage Pressure
+      │
+      ▼
+Proactive Recommendation
+```
+
+Example:
+
+```text
+Current Usage       : 72%
+Growth Rate         : 600 MB / Day
+Predicted 90% Usage : ~30 Days
+```
+
+---
+
+# 💬 Ask HyperLoop
+
+[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#-ask-hyperloop)
+
+The RAG-powered conversational interface allows users to interact with their storage using natural language.
+
+### Example Queries
+
+* 💬 What is consuming most of my storage?
+* 📊 What changed this week?
+* 🔍 Find my final year project files.
+* 📦 Which files are safe to archive?
+* 💾 How much storage can I recover?
+* 🤔 Why did you recommend moving this file?
+* 📈 When will my storage reach 90%?
+* 🗂 Show my previous migrations.
+* ⚡ What should I optimize first?
+* 🔮 What happens if I archive these videos?
+
+---
+
+# 🛡️ Safe Autonomous Migration
+
+[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#-safe-autonomous-migration)
+
+HyperLoop AI follows a verification-first approach.
+
+```text
+                 PLAN
+                   │
+                   ▼
+                 COPY
+                   │
+                   ▼
+                 UPLOAD
+                   │
+                   ▼
+                VERIFY
+                   │
+                   ▼
+             INTEGRITY CHECK
+                   │
+                   ▼
+        DESTINATION CONFIRMED
+                   │
+                   ▼
+            DELETE SOURCE
+```
+
+The system must **never delete the original file before successful transfer and verification**.
+
+---
+
+# ⚙️ Automation Workflow
+
+[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#-automation-workflow)
+
+```text
+              APScheduler
+                   │
+                   ▼
+          Periodic Monitoring
+                   │
+                   ▼
+           Storage Analysis
+                   │
+                   ▼
+         Threshold / Prediction
+                   │
+                   ▼
+            Agent Workflow
+                   │
+                   ▼
+        Decision + Risk Check
+                   │
+          ┌────────┴────────┐
+          ▼                 ▼
+       No Action         Action Needed
+          │                 │
+          │                 ▼
+          │              Execute
+          │                 │
+          │                 ▼
+          │              Verify
+          │                 │
+          └────────┬────────┘
+                   ▼
+                Logging
+                   │
+                   ▼
+                Memory
+```
+
+---
+
+# 🧠 AI Operating Modes
+
+[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#-ai-operating-modes)
+
+## 🔹 Read-Only Mode
+
+```text
+Monitor
+   ↓
+Analyze
+   ↓
+Recommend
+```
+
+No file modifications.
+
+---
+
+## 🔹 Approval Mode
+
+```text
+Monitor
+   ↓
+Reason
+   ↓
+Plan
+   ↓
+User Approval
+   ↓
+Execute
+   ↓
+Verify
+```
+
+---
+
+## 🔹 Autonomous Mode
+
+```text
+Monitor
+   ↓
+Reason
+   ↓
+Plan
+   ↓
+Validate
+   ↓
+Execute
+   ↓
+Verify
+   ↓
+Remember
+```
+
+Critical destructive operations require explicit approval.
+
+---
+
+# 💡 Innovation & Novelty
+
+[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#-innovation--novelty)
+
+The central research contribution of HyperLoop AI is:
+
+> **Autonomous Multi-Objective Storage Optimization using LLM-Based Agentic Reasoning**
+
+### Innovation Areas
+
+* 🔮 Predictive Storage Forecasting
+* 🧠 Multi-Objective Decision Engine
+* 📊 Explainable Storage Decisions
+* 💾 Preference-Based Optimization
+* 🔍 RAG-Based Storage Intelligence
+* 🛡️ Verified Autonomous Migration
+* 🧪 What-If Storage Simulation
+* 🔄 Continuous Agentic Optimization
+
+---
+
+# 📅 Development Roadmap
+
+[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#-development-roadmap)
+
+| **Phase** | **Focus**                   |
+| --------- | --------------------------- |
+| Phase 1   | Feasibility & Research      |
+| Phase 2   | Requirements & Architecture |
+| Phase 3   | Windows Storage Engine      |
+| Phase 4   | Google Drive Integration    |
+| Phase 5   | Database & Persistence      |
+| Phase 6   | Multi-Agent System          |
+| Phase 7   | LLM & RAG                   |
+| Phase 8   | Predictive Intelligence     |
+| Phase 9   | React Frontend              |
+| Phase 10  | Automation                  |
+| Phase 11  | Integration & Testing       |
+| Phase 12  | Evaluation & Deployment     |
+
+---
+
+# 📂 Repository Structure
+
+[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#-repository-structure)
+
+```text
+HYPERLOOP-AI
+│
+├── 01-Feasibility-Study
+│   ├── Problem-Analysis
+│   ├── Technical-Feasibility
+│   ├── API-Feasibility
+│   ├── Risk-Analysis
+│   └── Feature-Evaluation
+│
+├── 02-Requirements
+│   ├── Functional-Requirements
+│   ├── Non-Functional-Requirements
+│   ├── AI-Requirements
+│   └── Security-Requirements
+│
+├── 03-Research
+│   ├── Agentic-AI
+│   ├── LLM
+│   ├── RAG
+│   ├── Multi-Agent-Systems
+│   ├── Storage-Intelligence
+│   └── Related-Work
+│
+├── 04-System-Architecture
+│   ├── Architecture
+│   ├── Agent-Architecture
+│   ├── Database-Architecture
+│   ├── Connector-Architecture
+│   └── API-Architecture
+│
+├── 05-Backend
+│   ├── API
+│   ├── Services
+│   ├── Models
+│   └── Schemas
+│
+├── 06-Agents
+│   ├── Orchestrator
+│   ├── Monitoring
+│   ├── Reasoning
+│   ├── Planning
+│   ├── Action
+│   ├── Verification
+│   └── Memory
+│
+├── 07-Connectors
+│   ├── Windows
+│   └── Google-Drive
+│
+├── 08-RAG
+│   ├── Embeddings
+│   ├── Ingestion
+│   ├── Retrieval
+│   └── ChromaDB
+│
+├── 09-Database
+│   ├── SQLite
+│   ├── Schema
+│   └── Repositories
+│
+├── 10-Automation
+│   ├── Scheduler
+│   └── Workflows
+│
+├── 11-Frontend
+│   ├── Components
+│   ├── Pages
+│   ├── Services
+│   └── Assets
+│
+├── 12-Testing
+│   ├── Unit-Tests
+│   ├── Integration-Tests
+│   ├── Agent-Tests
+│   └── E2E-Tests
+│
+├── 13-Evaluation
+│   ├── Baseline
+│   ├── Metrics
+│   └── Results
+│
+├── 14-Documentation
+│
+├── 15-Presentation
+│
+├── Assets
+│
+├── Meeting-Notes
+│
+├── README.md
+│
+├── requirements.txt
+│
+└── LICENSE
+```
+
+---
+
+# 📦 Deliverables
+
+[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#-deliverables)
+
+* ✅ Feasibility Study
+* ✅ Problem Statement
+* ✅ Requirements Specification
+* ✅ System Architecture
+* ✅ Agent Architecture
+* ✅ Database Design
+* ✅ Windows Storage Connector
+* ✅ Google Drive Integration
+* ✅ Multi-Agent System
+* ✅ LLM Integration
+* ✅ RAG Pipeline
+* ✅ React Frontend
+* ✅ FastAPI Backend
+* ✅ Automation Engine
+* ✅ Working Prototype
+* ✅ Test Cases
+* ✅ Evaluation Results
+* ✅ Technical Documentation
+* ✅ Architecture Diagrams
+* ✅ Project Presentation
+* ✅ Demonstration
+
+---
+
+# 📊 Evaluation Focus
+
+[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#-evaluation-focus)
+
+| **Area**       | **Focus**                                   |
+| -------------- | ------------------------------------------- |
+| 🧠 Reasoning   | Decision quality and contextual reasoning   |
+| 🤖 Agents      | Orchestration and autonomous workflow       |
+| 🔍 RAG         | Retrieval relevance and contextual accuracy |
+| 💾 Memory      | Stateful behavior and preference management |
+| 📈 Prediction  | Storage forecasting accuracy                |
+| 🛠️ Tools      | Tool selection and execution                |
+| ☁️ Integration | Windows and Google Drive reliability        |
+| 🛡️ Safety     | Verification and migration integrity        |
+| ⚙️ Automation  | Continuous monitoring and recovery          |
+| 📊 Performance | Latency, reliability, and resource usage    |
+
+---
+
+# 🌐 Future Scope
+
+[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#-future-scope)
+
+HyperLoop AI is designed with an extensible connector architecture for future multi-platform storage management.
+
+### Planned Extensions
+
+* ☁️ Microsoft OneDrive
+* 📦 Dropbox
+* 📱 Android Storage
+* ☁️ AWS S3
+* 🌐 Multi-Cloud Storage
+* 💰 Cost-Aware Storage Optimization
+* 🌱 Carbon-Aware Storage Routing
+* 🧠 Storage Digital Twin
+* 🔮 Advanced Predictive Optimization
+* 🤝 Cross-Cloud Autonomous Agents
+
+---
+
+# 🌟 Project Goals
+
+[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#-project-goals)
+
+Upon successful completion of the project, HyperLoop AI aims to:
+
+* 🤖 Demonstrate a real-world Agentic AI system
+* 🧠 Implement autonomous reasoning and planning
+* 🔍 Demonstrate practical Agentic RAG
+* 🤝 Implement multi-agent collaboration
+* ☁️ Integrate real cloud storage APIs
+* 📊 Provide predictive storage intelligence
+* 🛡️ Demonstrate safe autonomous execution
+* 🚀 Deliver a scalable full-stack AI application
+* 📈 Evaluate Agentic AI against a traditional rule-based baseline
+* ✨ Establish a technically defensible research contribution
+
+---
+
+# ✨ Project Motto
+
+[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#-project-motto)
+
+> **Think • Plan • Act • Verify • Learn • Repeat**
+
+---
+
+# 📄 License
+
+[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#-license)
+
+This repository is developed as an **academic and research-oriented Agentic AI project** for the design, implementation, experimentation, and evaluation of autonomous storage intelligence systems.
+
+---
+
+**⚡ Intelligent Storage • Autonomous Agents • Predictive Intelligence • Secure Automation**
+
+```
+```
