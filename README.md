@@ -1,17 +1,21 @@
+Yes — below is the **complete `README.md` content**, formatted specifically so you can **copy-paste it directly into GitHub's `README.md`**.
+
 ````markdown
 # HYPERLOOP-AI
 
-[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#hyperloop-ai)
+[![Agentic AI](https://img.shields.io/badge/Agentic%20AI-7C3AED?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/Harish-11-V/HYPERLOOP-AI)
+[![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)](https://github.com/Harish-11-V/HYPERLOOP-AI)
+[![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge)](https://github.com/Harish-11-V/HYPERLOOP-AI)
+[![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://github.com/Harish-11-V/HYPERLOOP-AI)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/Harish-11-V/HYPERLOOP-AI)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Harish-11-V/HYPERLOOP-AI)
+[![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://github.com/Harish-11-V/HYPERLOOP-AI)
 
 Autonomous Agentic AI platform for intelligent storage monitoring, predictive optimization, contextual assistance, and secure cross-platform file management across Windows and Google Drive.
 
 ---
 
-[image](https://img.shields.io/badge/Agentic%20AI-7C3AED?style=for-the-badge&logo=openai&logoColor=white) [image](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge) [image](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge) [image](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black) [image](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) [image](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white) [image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 # ⚡ HyperLoop AI
-
-[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#-hyperloop-ai)
 
 **Autonomous Agentic AI for Intelligent Storage Management**
 
@@ -19,19 +23,15 @@ Autonomous Agentic AI platform for intelligent storage monitoring, predictive op
 
 # 💡 About This Repository
 
-[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#-about-this-repository)
-
 - This repository contains the complete development workspace for **HyperLoop AI**, an autonomous Agentic AI-powered storage intelligence platform.
 - HyperLoop AI continuously monitors local and cloud storage, analyzes storage behavior, predicts future storage pressure, and recommends or performs intelligent optimization.
-- The project combines **Agentic AI, Multi-Agent Systems, LLM reasoning, RAG, persistent memory, predictive analytics, automation, cloud APIs, and secure file management**.
+- The project combines **Agentic AI, Multi-Agent Systems, LLM reasoning, Retrieval-Augmented Generation (RAG), persistent memory, predictive analytics, automation, cloud APIs, and secure file management**.
 - The initial implementation focuses on **Windows File System and Google Drive**, with an extensible connector architecture for future cloud platforms.
-- The repository includes feasibility studies, requirements, architecture, research, development, experimentation, testing, documentation, and deployment resources.
+- The repository includes feasibility studies, requirements, research, architecture, development, experimentation, testing, documentation, and deployment resources.
 
 ---
 
 # 🎯 Project Objectives
-
-[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#-project-objectives)
 
 - 🤖 Build an autonomous Agentic AI system for storage intelligence
 - 🧠 Implement multi-agent reasoning, planning, execution, and verification
@@ -48,17 +48,11 @@ Autonomous Agentic AI platform for intelligent storage monitoring, predictive op
 
 # 🛠 Tech Stack
 
-[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#-tech-stack)
-
-[image](https://skillicons.dev/icons?i=python,react,vite,fastapi,git,github,docker)
-
-**Agentic AI • LangGraph • LLMs • RAG • ChromaDB • React.js • FastAPI • Python • SQLite • Google Drive API • OAuth 2.0 • APScheduler**
+**React.js • Vite • Tailwind CSS • FastAPI • Python • LangGraph • LLMs • Agentic RAG • ChromaDB • SQLite • Google Drive API • OAuth 2.0 • APScheduler**
 
 ---
 
 # 🧠 Core Technologies
-
-[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#-core-technologies)
 
 - 🤖 Agentic AI
 - 🧠 Large Language Models
@@ -77,11 +71,7 @@ Autonomous Agentic AI platform for intelligent storage monitoring, predictive op
 
 # 🚀 Project Development Stages
 
-[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#-project-development-stages)
-
 ## 🔹 Phase 1 – Feasibility & Research
-
-[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#-phase-1--feasibility--research)
 
 - Problem Identification
 - Existing System Analysis
@@ -97,8 +87,6 @@ Autonomous Agentic AI platform for intelligent storage monitoring, predictive op
 ---
 
 ## 🔹 Phase 2 – Requirements & System Design
-
-[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#-phase-2--requirements--system-design)
 
 - Problem Definition
 - Functional Requirements
@@ -116,8 +104,6 @@ Autonomous Agentic AI platform for intelligent storage monitoring, predictive op
 
 ## 🔹 Phase 3 – Storage Intelligence Engine
 
-[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#-phase-3--storage-intelligence-engine)
-
 - Windows Storage Monitoring
 - File Metadata Analysis
 - Folder Analysis
@@ -130,8 +116,6 @@ Autonomous Agentic AI platform for intelligent storage monitoring, predictive op
 ---
 
 ## 🔹 Phase 4 – Cloud Integration
-
-[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#-phase-4--cloud-integration)
 
 - Google Cloud Project
 - Google Drive API
@@ -146,8 +130,6 @@ Autonomous Agentic AI platform for intelligent storage monitoring, predictive op
 ---
 
 ## 🔹 Phase 5 – Agentic AI Development
-
-[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#-phase-5--agentic-ai-development)
 
 - Agent State Design
 - LangGraph Workflow
@@ -165,8 +147,6 @@ Autonomous Agentic AI platform for intelligent storage monitoring, predictive op
 
 ## 🔹 Phase 6 – LLM & RAG
 
-[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#-phase-6--llm--rag)
-
 - LLM Integration
 - Prompt Engineering
 - Structured Reasoning
@@ -183,8 +163,6 @@ Autonomous Agentic AI platform for intelligent storage monitoring, predictive op
 
 ## 🔹 Phase 7 – Intelligent Optimization
 
-[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#-phase-7--intelligent-optimization)
-
 - Storage Health Score
 - Predictive Storage Forecasting
 - Multi-Objective Decision Engine
@@ -197,8 +175,6 @@ Autonomous Agentic AI platform for intelligent storage monitoring, predictive op
 ---
 
 ## 🔹 Phase 8 – Automation & Autonomous Execution
-
-[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#-phase-8--automation--autonomous-execution)
 
 - Scheduled Monitoring
 - Threshold-Based Triggers
@@ -214,8 +190,6 @@ Autonomous Agentic AI platform for intelligent storage monitoring, predictive op
 ---
 
 ## 🔹 Phase 9 – Full-Stack Development
-
-[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#-phase-9--full-stack-development)
 
 - React.js Frontend
 - Vite
@@ -233,8 +207,6 @@ Autonomous Agentic AI platform for intelligent storage monitoring, predictive op
 
 ## 🔹 Phase 10 – Testing & Evaluation
 
-[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#-phase-10--testing--evaluation)
-
 - Unit Testing
 - Integration Testing
 - API Testing
@@ -250,8 +222,6 @@ Autonomous Agentic AI platform for intelligent storage monitoring, predictive op
 ---
 
 # 📚 Repository Contents
-
-[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#-repository-contents)
 
 - 📋 Feasibility Study
 - 📝 Requirements
@@ -277,10 +247,8 @@ Autonomous Agentic AI platform for intelligent storage monitoring, predictive op
 
 # 🔄 HyperLoop AI Workflow
 
-[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#-hyperloop-ai-workflow)
-
 ```text
-                    User
+                    USER
                       │
                       ▼
               React.js Frontend
@@ -292,25 +260,25 @@ Autonomous Agentic AI platform for intelligent storage monitoring, predictive op
             LangGraph Orchestrator
                       │
                       ▼
-                 OBSERVE
+                  OBSERVE
                       │
                       ▼
-                RETRIEVE
+                 RETRIEVE
                       │
                       ▼
-                 REASON
+                  REASON
                       │
                       ▼
-                  PLAN
+                   PLAN
                       │
                       ▼
-                   ACT
+                    ACT
                       │
                       ▼
-                 VERIFY
+                  VERIFY
                       │
                       ▼
-                REMEMBER
+                 REMEMBER
                       │
                       └──────────► REPEAT
 ````
@@ -319,76 +287,80 @@ Autonomous Agentic AI platform for intelligent storage monitoring, predictive op
 
 # 🤖 Multi-Agent Architecture
 
-[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#-multi-agent-architecture)
-
 ```text
                  ┌─────────────────────┐
-                 │     Orchestrator     │
-                 │       Agent         │
+                 │     ORCHESTRATOR    │
+                 │        AGENT        │
                  └──────────┬──────────┘
                             │
           ┌─────────────────┼─────────────────┐
           ▼                 ▼                 ▼
-   Monitoring Agent   Reasoning Agent   Memory/RAG Agent
-          │                 │                 │
-          │                 ▼                 │
-          │          Planning Agent           │
-          │                 │                 │
-          │                 ▼                 │
-          │           Action Agent            │
-          │                 │                 │
-          │                 ▼                 │
-          │       Verification Agent          │
-          │                 │                 │
-          └─────────────────┴─────────────────┘
-                            │
+ ┌────────────────┐ ┌────────────────┐ ┌────────────────┐
+ │  MONITORING    │ │   REASONING    │ │  MEMORY / RAG  │
+ │     AGENT      │ │     AGENT      │ │     AGENT      │
+ └───────┬────────┘ └───────┬────────┘ └───────┬────────┘
+         │                  │                  │
+         └──────────────────┼──────────────────┘
                             ▼
-                     Storage Systems
+                  ┌──────────────────┐
+                  │  PLANNING AGENT  │
+                  └────────┬─────────┘
+                           │
+                           ▼
+                  ┌──────────────────┐
+                  │   ACTION AGENT   │
+                  └────────┬─────────┘
+                           │
+                           ▼
+                ┌─────────────────────┐
+                │ VERIFICATION AGENT  │
+                └─────────┬───────────┘
+                          │
+                          ▼
+                  Storage Systems
 ```
 
 ---
 
 # 🏗️ System Architecture
 
-[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#-system-architecture)
-
 ```text
-┌─────────────────────────────────────────────────────────────┐
-│                         USER                                │
-└────────────────────────────┬────────────────────────────────┘
-                             │
-                             ▼
-┌─────────────────────────────────────────────────────────────┐
-│                    REACT.JS FRONTEND                        │
-│                                                             │
-│ Dashboard │ Analytics │ Chatbot │ Forecast │ Monitoring     │
-└────────────────────────────┬────────────────────────────────┘
-                             │
-                             ▼
-┌─────────────────────────────────────────────────────────────┐
-│                     FASTAPI BACKEND                         │
-│                                                             │
-│ REST API │ Authentication │ Validation │ WebSocket / SSE    │
-└────────────────────────────┬────────────────────────────────┘
-                             │
-                             ▼
-┌─────────────────────────────────────────────────────────────┐
-│                 LANGGRAPH ORCHESTRATOR                      │
-│                                                             │
-│ OBSERVE → RETRIEVE → REASON → PLAN → ACT → VERIFY → MEMORY │
-└───────────────┬───────────────────────┬─────────────────────┘
-                │                       │
-                ▼                       ▼
-       ┌─────────────────┐      ┌─────────────────────────┐
-       │   AI LAYER      │      │    DECISION ENGINE      │
-       │                 │      │                         │
-       │ LLM             │      │ Predictive Analytics    │
-       │ RAG             │      │ Multi-Objective Score   │
-       │ Embeddings      │      │ Risk Assessment         │
-       │ Memory          │      │ Explainability          │
-       └────────┬────────┘      └────────────┬────────────┘
-                │                            │
-                └────────────┬───────────────┘
+┌──────────────────────────────────────────────────────────────┐
+│                           USER                               │
+└──────────────────────────────┬───────────────────────────────┘
+                               │
+                               ▼
+┌──────────────────────────────────────────────────────────────┐
+│                     REACT.JS FRONTEND                        │
+│                                                              │
+│ Dashboard │ Analytics │ Chatbot │ Forecast │ Monitoring      │
+└──────────────────────────────┬───────────────────────────────┘
+                               │
+                               ▼
+┌──────────────────────────────────────────────────────────────┐
+│                      FASTAPI BACKEND                          │
+│                                                              │
+│ REST API │ Authentication │ Validation │ WebSocket / SSE     │
+└──────────────────────────────┬───────────────────────────────┘
+                               │
+                               ▼
+┌──────────────────────────────────────────────────────────────┐
+│                  LANGGRAPH ORCHESTRATOR                      │
+│                                                              │
+│ OBSERVE → RETRIEVE → REASON → PLAN → ACT → VERIFY → REMEMBER│
+└───────────────┬────────────────────────┬─────────────────────┘
+                │                        │
+                ▼                        ▼
+      ┌──────────────────┐     ┌─────────────────────────┐
+      │    AI LAYER      │     │    DECISION ENGINE      │
+      │                  │     │                         │
+      │ LLM              │     │ Predictive Analytics    │
+      │ RAG              │     │ Multi-Objective Score   │
+      │ Embeddings       │     │ Risk Assessment         │
+      │ Memory           │     │ Explainability          │
+      └────────┬─────────┘     └────────────┬────────────┘
+               │                            │
+               └─────────────┬──────────────┘
                              ▼
                     ┌──────────────────┐
                     │   ACTION AGENT   │
@@ -397,6 +369,7 @@ Autonomous Agentic AI platform for intelligent storage monitoring, predictive op
                     │ Validation       │
                     │ Safe Operations  │
                     └────────┬─────────┘
+                             │
                              ▼
                     ┌──────────────────┐
                     │ VERIFICATION     │
@@ -405,6 +378,7 @@ Autonomous Agentic AI platform for intelligent storage monitoring, predictive op
                     │ Integrity Check  │
                     │ Retry / Rollback │
                     └────────┬─────────┘
+                             │
                              ▼
                     ┌──────────────────┐
                     │ DATA & MEMORY    │
@@ -412,20 +386,21 @@ Autonomous Agentic AI platform for intelligent storage monitoring, predictive op
                     │ SQLite           │
                     │ ChromaDB         │
                     └────────┬─────────┘
-                             ▼
-             ┌───────────────┴────────────────┐
-             ▼                                ▼
-    Windows Connector                 Google Drive Connector
-             │                                │
-             ▼                                ▼
-     Windows File System                 Google Drive
+                             │
+                 ┌───────────┴────────────┐
+                 ▼                        ▼
+       ┌──────────────────┐     ┌──────────────────────┐
+       │ Windows          │     │ Google Drive         │
+       │ Connector        │     │ Connector            │
+       └────────┬─────────┘     └──────────┬───────────┘
+                │                          │
+                ▼                          ▼
+       Windows File System          Google Drive API
 ```
 
 ---
 
 # 🔍 RAG Architecture
-
-[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#-rag-architecture)
 
 ```text
 Storage Data
@@ -459,8 +434,6 @@ Answer / Recommendation / Decision
 
 # 📊 Intelligent Storage Optimization
 
-[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#-intelligent-storage-optimization)
-
 HyperLoop AI does not rely only on storage percentage.
 
 The decision engine considers:
@@ -489,26 +462,25 @@ Optimization Score
 AI Decision
 ```
 
-Example:
+### Example
 
 ```text
-File:             project-video.mp4
-Size:             8 GB
-Inactivity:       11 Months
-Access:           Low
-Importance:       Medium
-Risk:             Low
+File:                 project-video.mp4
+Size:                 8 GB
+Inactivity:           11 Months
+Access Frequency:     Low
+Importance:           Medium
+Destination Capacity: High
+Risk:                 Low
 
-Optimization Score: 91 / 100
+Optimization Score:   91 / 100
 
-Recommendation: ARCHIVE
+Recommendation:       ARCHIVE
 ```
 
 ---
 
 # 🔮 Predictive Storage Intelligence
-
-[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#-predictive-storage-intelligence)
 
 Instead of waiting for storage to become full, HyperLoop AI analyzes historical storage growth.
 
@@ -522,7 +494,7 @@ Historical Growth
 Growth Rate Analysis
       │
       ▼
-Forecasting Model
+Forecasting
       │
       ▼
 Predicted Storage Pressure
@@ -531,7 +503,7 @@ Predicted Storage Pressure
 Proactive Recommendation
 ```
 
-Example:
+### Example
 
 ```text
 Current Usage       : 72%
@@ -542,8 +514,6 @@ Predicted 90% Usage : ~30 Days
 ---
 
 # 💬 Ask HyperLoop
-
-[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#-ask-hyperloop)
 
 The RAG-powered conversational interface allows users to interact with their storage using natural language.
 
@@ -563,8 +533,6 @@ The RAG-powered conversational interface allows users to interact with their sto
 ---
 
 # 🛡️ Safe Autonomous Migration
-
-[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#-safe-autonomous-migration)
 
 HyperLoop AI follows a verification-first approach.
 
@@ -590,13 +558,11 @@ HyperLoop AI follows a verification-first approach.
             DELETE SOURCE
 ```
 
-The system must **never delete the original file before successful transfer and verification**.
+> **The system must never delete the original file before successful transfer and verification.**
 
 ---
 
 # ⚙️ Automation Workflow
-
-[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#-automation-workflow)
 
 ```text
               APScheduler
@@ -608,7 +574,7 @@ The system must **never delete the original file before successful transfer and 
            Storage Analysis
                    │
                    ▼
-         Threshold / Prediction
+        Threshold / Prediction
                    │
                    ▼
             Agent Workflow
@@ -637,8 +603,6 @@ The system must **never delete the original file before successful transfer and 
 ---
 
 # 🧠 AI Operating Modes
-
-[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#-ai-operating-modes)
 
 ## 🔹 Read-Only Mode
 
@@ -696,8 +660,6 @@ Critical destructive operations require explicit approval.
 
 # 💡 Innovation & Novelty
 
-[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#-innovation--novelty)
-
 The central research contribution of HyperLoop AI is:
 
 > **Autonomous Multi-Objective Storage Optimization using LLM-Based Agentic Reasoning**
@@ -717,8 +679,6 @@ The central research contribution of HyperLoop AI is:
 
 # 📅 Development Roadmap
 
-[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#-development-roadmap)
-
 | **Phase** | **Focus**                   |
 | --------- | --------------------------- |
 | Phase 1   | Feasibility & Research      |
@@ -737,8 +697,6 @@ The central research contribution of HyperLoop AI is:
 ---
 
 # 📂 Repository Structure
-
-[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#-repository-structure)
 
 ```text
 HYPERLOOP-AI
@@ -841,8 +799,6 @@ HYPERLOOP-AI
 
 # 📦 Deliverables
 
-[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#-deliverables)
-
 * ✅ Feasibility Study
 * ✅ Problem Statement
 * ✅ Requirements Specification
@@ -869,8 +825,6 @@ HYPERLOOP-AI
 
 # 📊 Evaluation Focus
 
-[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#-evaluation-focus)
-
 | **Area**       | **Focus**                                   |
 | -------------- | ------------------------------------------- |
 | 🧠 Reasoning   | Decision quality and contextual reasoning   |
@@ -887,8 +841,6 @@ HYPERLOOP-AI
 ---
 
 # 🌐 Future Scope
-
-[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#-future-scope)
 
 HyperLoop AI is designed with an extensible connector architecture for future multi-platform storage management.
 
@@ -909,8 +861,6 @@ HyperLoop AI is designed with an extensible connector architecture for future mu
 
 # 🌟 Project Goals
 
-[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#-project-goals)
-
 Upon successful completion of the project, HyperLoop AI aims to:
 
 * 🤖 Demonstrate a real-world Agentic AI system
@@ -928,15 +878,11 @@ Upon successful completion of the project, HyperLoop AI aims to:
 
 # ✨ Project Motto
 
-[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#-project-motto)
-
 > **Think • Plan • Act • Verify • Learn • Repeat**
 
 ---
 
 # 📄 License
-
-[svg](https://github.com/Harish-11-V/HYPERLOOP-AI#-license)
 
 This repository is developed as an **academic and research-oriented Agentic AI project** for the design, implementation, experimentation, and evaluation of autonomous storage intelligence systems.
 
