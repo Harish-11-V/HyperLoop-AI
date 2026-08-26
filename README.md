@@ -1,7 +1,6 @@
-Yes — below is the **complete `README.md` content**, formatted specifically so you can **copy-paste it directly into GitHub's `README.md`**.
-
-````markdown
 # HYPERLOOP-AI
+
+---
 
 [![Agentic AI](https://img.shields.io/badge/Agentic%20AI-7C3AED?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/Harish-11-V/HYPERLOOP-AI)
 [![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)](https://github.com/Harish-11-V/HYPERLOOP-AI)
