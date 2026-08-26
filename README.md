@@ -2,6 +2,8 @@
 
 ---
 
+<p align="center">
+  
 [![Agentic AI](https://img.shields.io/badge/Agentic%20AI-7C3AED?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/Harish-11-V/HYPERLOOP-AI)
 [![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)](https://github.com/Harish-11-V/HYPERLOOP-AI)
 [![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge)](https://github.com/Harish-11-V/HYPERLOOP-AI)
@@ -9,6 +11,8 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/Harish-11-V/HYPERLOOP-AI)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Harish-11-V/HYPERLOOP-AI)
 [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://github.com/Harish-11-V/HYPERLOOP-AI)
+
+</p>
 
 Autonomous Agentic AI platform for intelligent storage monitoring, predictive optimization, contextual assistance, and secure cross-platform file management across Windows and Google Drive.
 
@@ -47,7 +51,24 @@ Autonomous Agentic AI platform for intelligent storage monitoring, predictive op
 
 # 🛠 Tech Stack
 
-**React.js • Vite • Tailwind CSS • FastAPI • Python • LangGraph • LLMs • Agentic RAG • ChromaDB • SQLite • Google Drive API • OAuth 2.0 • APScheduler**
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,python,fastapi,git,github,docker" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LLM-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Agentic%20RAG-FF6F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
+<img src="https://img.shields.io/badge/OAuth%202.0-EB5424?style=for-the-badge" />
+<img src="https://img.shields.io/badge/APScheduler-2C3E50?style=for-the-badge" />
+
+</p>
 
 ---
 
